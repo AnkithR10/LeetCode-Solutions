@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0455-assign-cookies](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 ## Sorting
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0044-wildcard-matching](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0055-jump-game](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
