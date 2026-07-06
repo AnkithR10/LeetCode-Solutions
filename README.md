@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0200-number-of-islands](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
 | [0455-assign-cookies](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0738-monotone-increasing-digits](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0738-monotone-increasing-digits/) | Medium |
 ## String
