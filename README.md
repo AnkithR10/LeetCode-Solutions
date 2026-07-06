@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0044-wildcard-matching](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0242-valid-anagram](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0412-fizz-buzz](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0268-missing-number](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0412-fizz-buzz](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0412-fizz-buzz](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
