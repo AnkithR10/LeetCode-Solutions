@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 ## Sorting
@@ -33,4 +34,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
