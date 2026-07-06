@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0054-spiral-matrix](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 ## Sorting
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0044-wildcard-matching](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
+| [0055-jump-game](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0044-wildcard-matching](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
+| [0055-jump-game](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
