@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0455-assign-cookies](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 ## Sorting
@@ -110,4 +111,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
