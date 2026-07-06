@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0200-number-of-islands](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0217-contains-duplicate](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0455-assign-cookies](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 ## Sorting
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0455-assign-cookies](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 ## Two Pointers
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
