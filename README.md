@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0733-flood-fill](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0738-monotone-increasing-digits](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0738-monotone-increasing-digits/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
