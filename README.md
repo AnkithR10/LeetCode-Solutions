@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
+| [0063-unique-paths-ii](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0075-sort-colors](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Recursion
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0063-unique-paths-ii](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
