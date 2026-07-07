@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Recursion
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0062-unique-paths](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0268-missing-number](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0738-monotone-increasing-digits](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0738-monotone-increasing-digits/) | Medium |
@@ -236,4 +238,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
