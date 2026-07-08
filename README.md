@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0198-house-robber](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0198-house-robber](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0397-integer-replacement](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0397-integer-replacement/) | Medium |
 | [0494-target-sum](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
