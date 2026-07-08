@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3637-trionic-array-i](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3637-trionic-array-i/) | Easy |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1672-richest-customer-wealth](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 ## Simulation
@@ -240,12 +243,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
