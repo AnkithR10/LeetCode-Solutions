@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3620-network-recovery-pathways](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3637-trionic-array-i](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3637-trionic-array-i/) | Easy |
 | [3665-twisted-mirror-path-count](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3799-word-squares-ii](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3799-word-squares-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0455-assign-cookies](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
+| [3799-word-squares-ii](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3799-word-squares-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3799-word-squares-ii](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3799-word-squares-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0494-target-sum](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
+| [3799-word-squares-ii](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3799-word-squares-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -322,4 +326,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3620-network-recovery-pathways](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3799-word-squares-ii](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3799-word-squares-ii/) | Medium |
 <!---LeetCode Topics End-->
