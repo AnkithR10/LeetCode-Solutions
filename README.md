@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3637-trionic-array-i](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3637-trionic-array-i/) | Easy |
 | [3665-twisted-mirror-path-count](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -258,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
