@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0412-fizz-buzz](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3799-word-squares-ii](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3799-word-squares-ii/) | Medium |
 ## Dynamic Programming
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0718-maximum-length-of-repeated-subarray](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -296,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0494-target-sum](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 | [3799-word-squares-ii](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3799-word-squares-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
