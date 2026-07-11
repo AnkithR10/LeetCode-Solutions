@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3637-trionic-array-i](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3637-trionic-array-i/) | Easy |
 | [3665-twisted-mirror-path-count](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3799-word-squares-ii](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3799-word-squares-ii/) | Medium |
+| [3811-number-of-alternating-xor-partitions](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3811-number-of-alternating-xor-partitions/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3811-number-of-alternating-xor-partitions](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3811-number-of-alternating-xor-partitions/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3811-number-of-alternating-xor-partitions](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3811-number-of-alternating-xor-partitions/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0397-integer-replacement](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0397-integer-replacement/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [3811-number-of-alternating-xor-partitions](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3811-number-of-alternating-xor-partitions/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
