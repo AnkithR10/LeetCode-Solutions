@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0718-maximum-length-of-repeated-subarray](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0733-flood-fill](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0412-fizz-buzz](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0397-integer-replacement](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0397-integer-replacement/) | Medium |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3553-minimum-weighted-subgraph-with-the-required-paths-ii/) | Hard |
@@ -322,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0494-target-sum](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 | [3799-word-squares-ii](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3799-word-squares-ii/) | Medium |
