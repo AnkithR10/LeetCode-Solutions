@@ -261,12 +261,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Union-Find
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Prefix Sum
@@ -285,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
