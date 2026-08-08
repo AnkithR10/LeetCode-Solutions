@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
+| [0058-length-of-last-word](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0072-edit-distance](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0242-valid-anagram](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0412-fizz-buzz](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
