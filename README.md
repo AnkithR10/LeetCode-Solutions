@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0125-valid-palindrome](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 ## Greedy
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0058-length-of-last-word](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0072-edit-distance](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0072-edit-distance/) | Medium |
+| [0125-valid-palindrome](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
