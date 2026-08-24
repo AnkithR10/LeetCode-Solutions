@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0058-length-of-last-word](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0125-valid-palindrome](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0062-unique-paths](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0067-add-binary](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0412-fizz-buzz](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -263,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0067-add-binary](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0397-integer-replacement](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0397-integer-replacement/) | Medium |
