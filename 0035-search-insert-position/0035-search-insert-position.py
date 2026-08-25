@@ -1,5 +1,10 @@
 class Solution(object):
     def searchInsert(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: int
+        """
         left, right = 0, len(nums) - 1
         
         while left <= right:
@@ -12,5 +17,5 @@ class Solution(object):
             else:
                 right = mid - 1
                 
-        # If not found, left is the insertion index
+        # If not found, left is the correct insertion index
         return left
