@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -401,4 +403,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
