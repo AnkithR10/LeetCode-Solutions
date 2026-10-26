@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3553-minimum-weighted-subgraph-with-the-required-paths-ii](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3553-minimum-weighted-subgraph-with-the-required-paths-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3699-number-of-zigzag-arrays-i](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3811-number-of-alternating-xor-partitions](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3811-number-of-alternating-xor-partitions/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -346,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [3699-number-of-zigzag-arrays-i](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AnkithR10/LeetCode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
